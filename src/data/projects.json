@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Maha Trip - Centralized Platform for Maharashtra Tourism",
+    "imageSrc": "projects/mahatrip.jpg",
+    "description": "A tourism platform for exploring Maharashtra’s forts, beaches, and heritage sites. Includes guide booking, itinerary planner, and AI recommendations.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://mahasafar.vercel.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Sandesh - Real-Time Chat Application",
+    "imageSrc": "projects/chat-app.jpg",
+    "description": "A secure real-time chat app with instant messaging, built using MERN stack & Socket.IO, enabling smooth user-to-user communication.",
+    "skills": ["MongoDB", "Express", "React", "Node"],
+    "demo": "https://sandesh-chat-app-ochre.vercel.app/",
+    "source": "https://github.com/APS-03/Sandesh-Chat-App.git"
+  },
+  {
+    "title": "Discover Dhule - Blog website",
+    "imageSrc": "projects/blog.jpg",
+    "description": "A local blogging platform focused on Dhule city, allowing users to read articles, photos, and insights about places and events.",
+    "skills": ["HTML", "CSS", "Bootstrap"],
+    "demo": "https://dhule-blog.netlify.app/",
+    "source": "https://github.com/APS-03/Discover-Dhule.git"
+  },
+  {
+    "title": "Car Rental System",
+    "imageSrc": "projects/car-rental.jpg",
+    "description": "RideRent an simple web application that allows you to provide facility to rent,or book cars very easily. Developed using Django framework",
+    "skills": ["HTML", "CSS", "Django"],
+    "demo": "https://drive.google.com/file/d/1QYWb3y1CnulLljAjtGRDFt2FfD8xcZdr/view?usp=sharing",
+    "source": "https://github.com/APS-03/ride-rent.git"
+  },
+  {
+    "title": "Student Registration Form",
+    "imageSrc": "projects/registration-form.jpg",
+    "description": "Created a Java-based registration form with text fields, buttons, and labels, integrating with a database for efficient student management.",
+    "skills": ["Java", "Applets"],
+    "demo": "projects/Registration Form Demo.mp4",
+    "source": "https://github.com/APS-03/Java_Project.git"
+  },
+  {
+    "title": "TaskTrek - To-do App",
+    "imageSrc": "projects/to-do.jpg",
+    "description": "A productivity tool to create, manage, and organize daily tasks with status updates and reminders for efficient task completion.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://task-trek-todo.netlify.app/",
+    "source": "https://github.com/APS-03/TaskTrek.git"
+  }
+]

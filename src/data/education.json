@@ -1,0 +1,26 @@
+[
+  {
+    "role": "BE- Computer Engineering",
+    "institute": "Zeal College of Engineering & Research",
+    "startDate": "2022",
+    "endDate": "2025",
+    "marks": "CGPA: 8.17/10",
+    "imageSrc": "education/sppulogo.png"
+  },
+  {
+    "role": "Diploma in Computer Engineering",
+    "institute": "Government Polytechnic, Dhule",
+    "startDate": "2019",
+    "endDate": "2022",
+    "marks": "87.49%",
+    "imageSrc": "education/msbtelogo.png"
+  },
+  {
+    "role": "SSC (Class-X)",
+    "institute": "Jai Hind High School, Dhule",
+    "startDate": "2018",
+    "endDate": "2019",
+    "marks": "88.20%",
+    "imageSrc": "education/sscboardlogo.png"
+  }
+]
