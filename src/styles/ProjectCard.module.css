@@ -19,12 +19,14 @@
   font-size: 25px;
   font-weight: bold;
   color: var(--color-text);
+  text-align: justify;
 }
 
 .description {
   margin-top: 6px;
   font-size: 20px;
   font-weight: 200;
+  text-align: justify;
 }
 
 .skills {
@@ -42,7 +44,7 @@
   font-weight: 200;
   border-radius: 20px;
   background: var(--color-dark);
-  padding: 2px 22px;
+  padding: 2px 20px;
 }
 
 .links {

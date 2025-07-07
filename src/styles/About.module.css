@@ -34,6 +34,7 @@
   color: var(--color-text);
   display: flex;
   flex-direction: column;
+  text-align: justify;
   gap: 50px;
 }
 

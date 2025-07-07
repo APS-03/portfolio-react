@@ -89,6 +89,7 @@ ul{
 .social h2{
     margin-top: 20px;
     color: var(--color-text);
+    font-size: larger;
 }
 
 p{

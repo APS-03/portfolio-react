@@ -19,6 +19,7 @@
 
 .menuBtn{
     display: none;
+    filter: invert(100%) brightness(100%);
 }
 
 .menu{
